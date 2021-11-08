@@ -1,2 +1,0 @@
-def carte_bateau():
-  
